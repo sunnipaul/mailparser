@@ -13,7 +13,7 @@
     "he": "^1.1.1",
     "html-to-text": "3.2.0",
     "iconv-lite": "0.4.17",
-    "libmime": "https://github.com/sunnipaul/libmime#latest",
+    "libmime": "https://github.com/sunnipaul/libmime/archive/latest.tar.gz",
     "mailsplit": "git://github.com/sunnipaul/mailsplit"
   },
   "devDependencies": {
@@ -22,7 +22,7 @@
     "grunt-cli": "^1.2.0",
     "grunt-contrib-nodeunit": "^1.0.0",
     "grunt-eslint": "^19.0.0",
-    "libbase64": "git://github.com/sunnipaul/libbase64",
+    "libbase64": "https://github.com/sunnipaul/libbase64/archive/v0.1.1.tar.gz",
     "libqp": "^1.1.0",
     "random-message": "^1.1.0"
   },
