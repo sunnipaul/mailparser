@@ -13,8 +13,8 @@
     "he": "^1.1.1",
     "html-to-text": "3.2.0",
     "iconv-lite": "0.4.17",
-    "libmime": "sunnipaul/libmime",
-    "mailsplit": "sunnipaul/mailsplit"
+    "libmime": "git://github.com/sunnipaul/libmime",
+    "mailsplit": "git://github.com/sunnipaul/mailsplit"
   },
   "devDependencies": {
     "eslint-config-nodemailer": "^1.0.0",
@@ -22,7 +22,7 @@
     "grunt-cli": "^1.2.0",
     "grunt-contrib-nodeunit": "^1.0.0",
     "grunt-eslint": "^19.0.0",
-    "libbase64": "sunnipaul/libbase64",
+    "libbase64": "git://github.com/sunnipaul/libbase64",
     "libqp": "^1.1.0",
     "random-message": "^1.1.0"
   },
