@@ -13,7 +13,7 @@
     "he": "^1.1.1",
     "html-to-text": "3.2.0",
     "iconv-lite": "0.4.17",
-    "libmime": "https://github.com/sunnipaul/libmime/archive/latest.tar.gz",
+    "libmime": "https://github.com/sunnipaul/libmime#latest",
     "mailsplit": "git://github.com/sunnipaul/mailsplit"
   },
   "devDependencies": {
